@@ -1,5 +1,4 @@
 output_dir: docs
-book_filename: "Práticas experimentais para cursos de Física do ensino médio"
 delete_merged_file: true
 language:
   label:
