@@ -1,4 +1,4 @@
-output_dir: docs
+output_dir: "docs"
 book_filename: "vet-obserror"
 delete_merged_file: true
 language:
