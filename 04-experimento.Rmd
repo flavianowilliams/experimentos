@@ -111,11 +111,11 @@ Para equilibrar o sistema, basta mover o ponto de apoio (pincel) mais próximo d
 
 A relação de equilíbrio é dada por
 
-\begin{aligned}
+\begin{align}
 F1 \cdot d1 & = F2 \cdot d2,\\
 F_1\cdot d_1 & = F_2 \cdot d_2,\\
 F1​\cdot d1& =F2\cdot d2
-\end{aligned}
+\end{align}
 
 onde FFF é a força (ou peso) e ddd é a distância até o fulcro.
 

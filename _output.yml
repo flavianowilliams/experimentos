@@ -6,7 +6,7 @@ bookdown::gitbook:
         <li><a href="./">Práticas experimentais</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/flavianowilliams/experimentos/%s
+    edit: https://github.com/flavianowilliams/experimentos/blob/master/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
