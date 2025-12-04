@@ -2,19 +2,36 @@
 title: "Práticas experimentais para cursos de Física do ensino médio"
 author:
   - "Andressa Sabrina Rodrigues Ferreira"
+  - "Aron..."
+  - "Denizar..."
+  - "Felipe Miguel Patchek Franco"
+  - "Joivana de Fátima Rodrigues Lau"
+  - "Sabrina Vitoria Wersel"
   - "Flaviano Williams Fernandes"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: bibliografia.bib
+bibliography: "bibliografia.bib"
+csl: abnt.csl
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
-  This is a minimal example of using the bookdown package to write a book.
-  The HTML output format for this example is bookdown::gitbook,
-  set in the _output.yml file.
+  Roteiro de experimentos para aulas de física do ensino médio.
 link-citations: yes
-github-repo: rstudio/bookdown-demo
+github-repo: flavianowilliams/experimentos
+css: "style.css"
 ---
 
-# xxx
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  fig.align = "center",
+  fig.topcaption = TRUE
+  )
+#
+source(file = "R/static.R")
+```
+
+# Introdução
+
+Este trabalho visar apresentar atividades práticas para aulas demonstrativas de física para alunos do ensino médio

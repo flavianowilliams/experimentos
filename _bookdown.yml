@@ -19,5 +19,5 @@ language:
     solution: 'Solução '
   ui:
     edit: 'Editar '
-    chapter_name: 'Capítulo '
+    chapter_name: ''
     appendix_name: 'Apêndice '

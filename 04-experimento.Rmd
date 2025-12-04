@@ -1,0 +1,146 @@
+# Felipe Miguel Patchek Franco
+
+## Autor: Felipe Miguel Patchek Franco
+
+## Introdução
+
+O experimento da alavanca visa explorar as leis fundamentais da física, especialmente o Princípio da Alavanca, que está relacionado ao conceito de momento de força. A alavanca é uma máquina simples que permite a ampliação de uma força, facilitando a realização de trabalho. Esse experimento tem como objetivo verificar a relação entre a força aplicada, a distância entre o ponto de apoio e o ponto de aplicação da força, e a equação que descreve o equilíbrio da alavanca.
+O estudo da alavanca é um exemplo clássico de como os conceitos de física, como força, torque e equilíbrio, podem ser aplicados no dia a dia e em diversas máquinas e dispositivos. De forma simples, ao mover um ponto de apoio, podemos alterar a quantidade de força necessária para equilibrar objetos pesados, facilitando o trabalho humano.
+
+## Objetivos
+
+* Compreender o conceito de alavanca e sua aplicação prática.
+
+* Estudar a relação entre força, distância e ponto de apoio, conforme a Lei da Alavanca.
+
+* Determinar a condição de equilíbrio de uma alavanca.
+
+* Verificar a fórmula de equilíbrio de uma alavanca (fórmula de momentos).
+
+## Parte experimental
+
+### Materiais utilizados
+
+* 1 base de papelão firme (para servir de suporte)
+
+* 1 tira de papelão (aproximadamente 25–30 cm de comprimento)
+
+* 1 pincel, lápis ou canudo rígido (para atuar como fulcro/ponto de apoio)
+
+* 2 tampinhas de garrafa PET e tampinhas de tinta Guache (uma para cada extremidade da alavanca)
+
+* 3 moedas (duas coladas em uma tampinha e uma na outra)
+
+* Fita adesiva transparente ou cola quente (para fixação)
+
+* Tesoura ou estilete (para cortar o papelão)
+
+* Régua e caneta (para medir e marcar as distâncias)
+
+* (Opcionais) massinha de modelar para ajuste de pesos ou equilíbrio e papéis EVA para decorar.
+
+### Procedimento experimental
+
+1. Preparação da base: Inicialmente, foi recortado um pedaço de **papelão** utilizando **tesoura**, que serviu como base de sustentação da montagem.
+
+```{r figura-4a}
+#| fig.cap: "..."
+
+knitr::include_graphics("img/rascunho.png")
+```
+
+2. Montagem dos suportes: Em seguida, foram recortados e colados **dois suportes verticais de papelão** sobre a base, deixando entre eles um espaço para posicionar o pincel, que funcionou como o **fulcro (ponto de apoio)** da alavanca. Os suportes foram colados com fita adesiva e cola, e o pincel foi **perfurado** e encaixado nos suportes, de modo que pudesse girar livremente.
+
+```{r figura-4b}
+#| fig.cap: "..."
+
+knitr::include_graphics("img/rascunho.png")
+```
+
+3. Construção da barra da alavanca: Foi cortado mais um pedaço retangular de papelão, que serviu como a barra da alavanca. Essa barra foi apoiada sobre o pincel, centralizada de modo que pudesse se equilibrar.
+
+```{r figura-4c}
+#| fig.cap: "..."
+
+knitr::include_graphics("img/rascunho.png")
+```
+
+4. Fixação dos pesos: Em cada extremidade da barra de papelão, foi colada uma tampinha de garrafa PET. Em uma das tampinhas foram coladas duas moedas, representando um maior peso (força). Na outra tampinha foi colada apenas uma moeda, representando o menor peso.
+
+```{r figura-4d}
+#| fig.cap: "..."
+
+knitr::include_graphics("img/rascunho.png")
+```
+
+5. Observação do funcionamento: A alavanca foi posicionada sobre o fulcro (pincel) e observou-se que o lado com duas moedas desceu, enquanto o lado com uma moeda subiu, demonstrando o desequilíbrio inicial. Ao mover o ponto de apoio ligeiramente em direção ao lado mais pesado, foi possível restabelecer o equilíbrio.
+
+```{r figura-4e}
+#| fig.cap: "..."
+
+knitr::include_graphics("img/rascunho.png")
+```
+
+6. Conclusão visual: O experimento permitiu observar de forma simples e prática o princípio da alavanca, mostrando que o equilíbrio depende da relação entre força e distância em relação ao ponto de apoio. Observou-se que o peso indicada na balança variou quando o anel foi colocado, demonstrando que houve mudança na força exercida sobre ela.
+
+```{r figura-4f}
+#| fig.cap: "..."
+
+knitr::include_graphics("img/rascunho.png")
+```
+
+## Questionário
+
+1. Qual é o objetivo do experimento realizado?
+
+O objetivo do experimento é demonstrar, de forma simples e prática, o princípio da alavanca, observando como o peso e a distância do ponto de apoio influenciam no equilíbrio e no movimento da barra.
+
+2. Que função o pincel desempenha na montagem da alavanca?
+
+O pincel atua como o fulcro ou ponto de apoio da alavanca. É em torno dele que a barra de papelão gira, permitindo o movimento de sobe e desce entre os dois lados.
+
+3. O que acontece quando há duas moedas de um lado e uma do outro?
+
+O lado com duas moedas fica mais pesado e desce, enquanto o lado com uma moeda fica mais leve e sobe. Isso ocorre porque a força peso é maior no lado das duas moedas.
+
+4. Como é possível equilibrar o sistema mesmo com pesos diferentes?
+
+Para equilibrar o sistema, basta mover o ponto de apoio (pincel) mais próximo do lado mais pesado. Assim, o braço de alavanca do lado mais leve fica maior e compensa a diferença de peso, equilibrando os torques.
+
+5. Escreva a expressão matemática que representa o equilíbrio de uma alavanca.
+
+A relação de equilíbrio é dada por
+
+\begin{aligned}
+F1 \cdot d1 & = F2 \cdot d2,\\
+F_1\cdot d_1 & = F_2 \cdot d_2,\\
+F1​\cdot d1& =F2\cdot d2
+\end{aligned}
+
+onde FFF é a força (ou peso) e ddd é a distância até o fulcro.
+
+6. Cite dois exemplos de alavancas que usamos no dia a dia.
+
+* Tesoura – o fulcro é o parafuso no centro.
+
+* Alicate – o fulcro é a articulação entre os cabos.
+ Outros exemplos possíveis são gangorra, abridor de garrafa e chave de roda.
+
+7. Quais fatores podem causar erro experimental?
+
+* O atrito entre o pincel e o papelão.
+
+* Desalinhamento do fulcro.
+
+* Peso desigual das tampinhas ou do papelão.
+
+* Fixação incorreta das moedas. Esses fatores podem impedir que o equilíbrio ocorra exatamente como previsto.
+
+8. De que forma este experimento contribui para a aprendizagem prática da Física?
+
+O experimento ajuda a visualizar conceitos abstratos da Física, como torque, equilíbrio e força. Ele torna o aprendizado mais concreto e participativo, permitindo ao aluno experimentar e compreender o funcionamento de uma máquina simples.
+
+9. Qual a importância da curricularização da extensão em atividades como esta?
+
+A curricularização da extensão permite aproximar o ensino da realidade da comunidade, mostrando que a Física está presente em situações do dia a dia. Além disso, promove a criatividade, a sustentabilidade e o trabalho em equipe, valores importantes para a formação integral do estudante.
+

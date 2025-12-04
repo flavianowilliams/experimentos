@@ -1,0 +1,216 @@
+# Construção e Utilização de um Calorímetro Caseiro com Caixa de Leite
+
+## Autor: Aron...
+
+## Introdução
+
+O calorímetro é um equipamento fundamental no estudo da Calorimetria, a área da Física que estuda a troca de calor entre corpos e as mudanças de estado físico. Um calorímetro ideal é projetado para ser um sistema isolado, onde as trocas de calor ocorrem apenas entre os componentes internos (substâncias) e o próprio aparelho, minimizando a perda de calor para o ambiente externo.
+
+A construção de um calorímetro caseiro, utilizando materiais de baixo custo e fácil acesso, como a caixa de leite (embalagem cartonada longa vida), tubo de ensaio e termômetro, permite a realização de experimentos práticos para a compreensão dos conceitos de calor específico, capacidade térmica e energia liberada em reações ou na queima de substâncias.
+
+## Objetivo
+
+Construir um calorímetro simples utilizando materiais reciclados e de baixo custo para realizar medições aproximadas de variações de temperatura e, consequentemente, do calor envolvido em processos.
+
+## Materiais necessários
+
+-   1 Caixa de leite (embalagem cartonada longa vida) vazia e limpa.
+-   1 Tubo de ensaio.
+-   1 Termômetro (preferencialmente de precisão, mas um termômetro culinário ou clínico pode ser adaptado).
+-   Água.
+-   Tesoura ou estilete.
+-   Fita adesiva ou cola.
+-   Suporte para o tubo de ensaio (opcional, para mantê-lo suspenso ou fixo).
+-   Fonte de calor (ex: vela, lamparina a álcool ou alimento a ser queimado).
+-   Proveta ou recipiente medidor (para medir a água).
+
+## Montagem do calorímetro
+
+O calorímetro caseiro, baseado na estrutura de uma caixa de leite, busca aproveitar as camadas isolantes (geralmente papelão, alumínio e polietileno) da embalagem cartonada para reduzir a troca de calor com o ambiente.
+
+1.  Preparação da Caixa de Leite (Revestimento/Isolamento)
+
+    a)  Corte a parte superior da caixa (a que costuma ser usada para abrir) na horizontal e descarte-a. A caixa deve formar um recipiente aberto em uma das extremidades.
+
+    b)  Opcional: Para melhorar o isolamento, forre o interior da caixa com papel alumínio (com o lado brilhante para dentro) ou isopor fino.
+
+    c)  Abertura na parte da frente: Faça uma abertura de tamanho razoável na parte lateral ou frontal da caixa, perto da base, que permitirá a colocação e ignição da fonte de calor (ex: o alimento a ser queimado).
+
+2.  Posicionamento do Tubo de Ensaio:
+
+    a)  Meça uma quantidade conhecida de água (por exemplo, 10 mL ou 20 mL, dependendo do tamanho do tubo de ensaio) e coloque-a dentro do tubo de ensaio.
+
+    b)  Introduza o termômetro dentro do tubo de ensaio, imerso na água. Atenção: O termômetro não deve tocar o fundo ou as paredes do tubo.
+
+    c)  Se necessário, crie uma "tampa" improvisada (por exemplo, com papelão ou pedaço da própria caixa) para o tubo de ensaio, com um pequeno furo para o termômetro, para reduzir a perda de calor da água para o ar.
+
+## Aplicação (Exemplo: Medição de Energia de um Alimento)
+
+Este tipo de calorímetro é frequentemente usado para estimar a energia calórica (calorias) liberada na queima de um alimento, como um amendoimEste tipo de calorímetro é frequentemente usado para estimar a energia calórica (calorias) liberada na queima de um alimento, como um amendoim
+
+1.  Medir as Temperaturas:
+
+    a)  Anote a temperatura inicial (T<sub>inicial</sub>) da água no tubo de ensaio.
+
+2.  Queima do Alimento:
+
+    a)  Coloque o alimento (ex: um amendoim preso em um arame) em um suporte de ignição (pode ser um pedaço de rolha ou isopor com um clipe esticado) e posicione-o na abertura da frente do calorímetro.Coloque o alimento (ex: um amendoim preso em um arame) em um suporte de ignição (pode ser um pedaço de rolha ou isopor com um clipe esticado) e posicione-o na abertura da frente do calorímetro.
+
+    b)  Acenda o alimento com um palito de fósforo ou vela, e rapidamente introduza-o na abertura frontal, sob a base do tubo de ensaio com água.
+
+    c)  Deixe o alimento queimar completamente. O calor liberado aquecerá a água.
+
+3.  Medir a Temperatura Final:
+
+    a)  Após a queima total do alimento e a estabilização da temperatura, anote a temperatura final (T<sub>final</sub>) da água.
+
+    b)  Calcule a variação de temperatura : $\Delta T = T_{final}-T_{inicial}$.
+
+## Cálculos envolvidos
+
+O calor (Q) recebido pela água e, idealmente, pelo calorímetro pode ser calculado pela equação do **Calor Sensível** (chamada de equação fundamental da calorimetria, ou "Que MaCeTe"):
+
+\begin{align}
+Q & = mc\Delta T,
+\end{align}
+
+onde
+
+-   Q é o calor recebido pela água (em calorias, cal).
+-   m é a massa da água (em gramas, g).
+-   c é o calor específico da água (1 cal/g).
+-   $\Delta T$ é a variação de temperatura (graus Celsius).
+
+Considerações:
+
+-   Em um calorímetro caseiro, o valor de Q calculado é apenas uma estimativa da energia liberada, pois uma quantidade significativa de calor é perdida para o ar, para a caixa de leite e para o tubo de ensaio (que também absorvem calor, mas que não foram incluídos no cálculo simples).
+-   Em experimentos mais detalhados, é preciso considerar a Capacidade Térmica do Calorímetro (cal), ou seja, a energia que o próprio calorímetro (caixa, tubo, etc.) absorve. A fórmula completa seria: Q<sub>total</sub> = Q<sub>água</sub> + Q<sub>calorímetro</sub>.
+-   A energia liberada pelo alimento (E<sub>alimento</sub>) é igual ao calor total absorvido: E alimento = Q total.
+
+## Conclusão
+
+O calorímetro caseiro com caixa de leite e tubo de ensaio é uma ferramenta didática eficiente que demonstra os princípios básicos da calorimetria. Embora apresente limitações de precisão devido às perdas de calor para o ambiente, ele permite aos estudantes visualizar a transferência de energia e aplicar as fórmulas fundamentais de cálculo de calor, tornando o estudo de termodinâmica mais concreto e acessível.
+
+## Questionário
+
+### Parte I: Questões de Múltipla Escolha e Conceituais
+
+#### Questão
+
+Qual é a principal função da caixa de leite (embalagem cartonada longa vida) no calorímetro caseiro, do ponto de vista da termodinâmica?
+
+A. Servir como fonte de calor inicial.
+
+B. Atuar como um agente misturador para a água.
+
+C. Maximizar a transferência de calor para o ambiente.
+
+D. Reduzir a perda de calor por meio do isolamento térmico.
+
+E. Reagir químicamente com o tubo de ensaio, estabilizando a temperatura.
+
+#### Questão
+
+O tubo de ensaio, que contém a água e o termômetro, é o receptor direto da energia liberada pela fonte de calor (ex: um amendoim queimando). Qual fenômeno físico explica o aquecimento da água nessa montagem?
+
+A)  Condução, pois o calor se propaga através das paredes do tubo de ensaio para a água, e radiação, proveniente da chama.
+
+B)  Apenas Convecção, pois a água circula dentro do tubo.
+
+C)  Apenas Radiação, pois o calor da chama atinge o tubo sem contato direto.
+
+D)  Condução, Radiação e Convecção (na água).
+
+E)  Apenas o trabalho realizado pela chama, que aumenta a energia interna da água.
+
+#### Questão
+
+Na fórmula fundamental da calorimetria (Q=m⋅c⋅ΔT), o termo ΔT representa a variação de temperatura. Se 20 mL de água (assumindo densidade de 1 g/mL) sofrem um aumento de temperatura de 15g<sup>∘</sup>C durante um experimento, e o calor específico da água é 1 cal/g<sup>∘</sup>C, qual é o valor de calor mínimo absorvido (Q<sub>água</sub>) pela água?
+
+A. 35 cal
+
+B. 20 cal
+
+C. 300 cal
+
+D. 150 cal
+
+E. 200 cal
+
+#### Questão
+
+A principal limitação do calorímetro caseiro (feito com caixa de leite, tubo de ensaio e termômetro) para medir a energia de um alimento, em comparação com um calorímetro de bomba de nível laboratorial, é que o modelo caseiro:
+
+A. Utiliza água em vez de óleo como fluido térmico.
+
+B. Permite grande perda de calor para o ambiente (sistema não ideal).
+
+C. Não permite a medição da massa inicial do alimento.
+
+D. Possui capacidade térmica nula, distorcendo o resultado.
+
+E. Não utiliza a unidade caloria (cal) em seus cálculos.
+
+### Parte II: Questões Dissertativas e de Análise
+
+#### Questão
+
+Defina o conceito de Capacidade Térmica (C) de um corpo e explique por que é crucial desconsiderar (ou minimizá-la) a Capacidade Térmica do calorímetro caseiro (do tubo de ensaio e da caixa) para que os resultados do experimento sejam mais próximos do calor real liberado pela fonte.
+
+#### Questão
+
+Um estudante mede a massa de 20 g de amendoim antes da queima. A massa final residual após a queima é de 19,5 g. O calorímetro caseiro contendo 50 g de água sofre uma variação de temperatura (ΔT) de 10∘C. Se a água absorveu 500 cal (Q=50 g⋅1 cal/g∘C⋅10∘C), calcule a quantidade de energia (em cal/g) liberada pelo amendoim considerando apenas o calor absorvido pela água.
+
+#### Questão
+
+O calorímetro ideal é um sistema isolado. No calorímetro caseiro, a perda de calor ocorre principalmente por dois mecanismos (além da condução para a estrutura). Quais são esses mecanismos e como a montagem com a caixa de leite e o tubo de ensaio busca atenuar a perda de calor do tubo para o ambiente?
+
+#### Questão
+
+Considere que, em um experimento mais preciso, a Capacidade Térmica do tubo de ensaio (C<sub>tubo</sub>) e da caixa de leite (C<sub>caixa</sub>) em conjunto é de 20 cal/<sup>∘</sup>C. Se a variação de temperatura foi de 10<sup>∘</sup>C e o calor absorvido pela água foi 500 cal (conforme a Questão 6), calcule o calor total (Q<sub>total</sub>) liberado pela fonte de calor neste sistema não ideal.
+
+#### Questão
+
+Explique, usando os conceitos de calorimetria, por que o termômetro não deve tocar o fundo do tubo de ensaio durante a medição.
+
+#### Questão
+
+Qual seria o impacto no valor do calor específico calculado para uma amostra (em um experimento de troca de calor) se o calorímetro caseiro fosse montado com uma caixa de leite sem o forro de alumínio interno (que é a camada reflexiva da embalagem)? Justifique sua resposta.
+
+## Gabarito e resolução detalhada
+
+### Parte I: Respostas
+
+| Questão | Resposta correta |
+|:-------:|:----------------:|
+|    1    |        D         |
+|    2    |        D         |
+|    3    |        C         |
+|    4    |        B         |
+
+### Parte II: Questões Dissertativas e de Análise
+
+#### Questão 5: Capacidade Térmica (C)
+
+A Capacidade Térmica é o calor necessário para variar a temperatura de um corpo em um grau. É crucial minimizá-la porque o calor absorvido pelo calorímetro (tubo e caixa) não é contabilizado, levando a uma subestimação do calor total liberado pela fonte se essa capacidade for alta.
+
+#### Questão 6: Energia por Grama
+
+A massa queimada é de 0,5 g (20 g−19,5 g). Se a água absorveu 500 calorias, a energia liberada é: 500 cal/0,5 g=1000 cal/g.
+Questão 7: Mecanismos de Perda e Atenuação
+Os principais mecanismos de perda são Convecção (pelo ar) e Radiação (ondas de calor). A caixa de leite, com sua camada de alumínio, ajuda a refletir a radiação de volta para dentro do sistema e a conter o ar, minimizando a perda por convecção.
+
+#### Questão 8: Cálculo do Calor Total
+
+O calor total é a soma do calor da água e do calor absorvido pelo calorímetro.
+Calor do Calorímetro: 20 cal x 100 = 200 cal
+Calor Total: 500 cal + 200 cal = 700 calorias
+
+#### Questão 9: Posição do Termômetro
+
+O termômetro deve medir a temperatura da água, e não a do tubo de ensaio. Se tocar o fundo, medirá a temperatura da parede sólida, que é mais quente e sobe mais rápido, resultando em leituras incorretas e superestimadas do calor absorvido.
+
+#### Questão 10: Impacto da Ausência do Alumínio
+
+O valor do calor específico calculado seria menor do que o valor real. Sem a camada de alumínio (reflexiva), haveria maior perda de calor por Radiação para o ambiente. Consequentemente, o calor absorvido pela água seria menor, subestimando o calor específico da amostra testada.
+

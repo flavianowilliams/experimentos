@@ -1,0 +1,89 @@
+# FILTRO DE ÁGUA - Dois sistemas: Decantação e filtro
+
+## Autor: Denizar
+
+## Introdução
+
+A água é um recurso essencial para a vida e sua qualidade está diretamente ligada à saúde e ao bem-estar da população. No entanto, nem sempre a água disponível para consumo encontra-se em condições seguras para todas as pessoas, sendo necessária a utilização de processos de tratamento e filtragem para garantir sua potabilidade. Compreender esses métodos é fundamental não apenas para a aprendizagem científica, mas também para o desenvolvimento da consciência ambiental e da responsabilidade social.
+
+ Podemos definir consciência ambiental como sendo a tendência de um indivíduo em se posicionar frente aos assuntos relativos ao meio ambiente de uma maneira a favor ou contra [@Gonalves-Dias2009], nesse contexto significa a consciência do indivíduo entender que a água para consumo é limitada e que por isso precisamos evitar o desperdício.  
+
+Já a responsabilidade social está ligada a forma como o indivíduo age no sentido de preservar a água, onde ele tem clareza de que pequenas ações do dia a dia podem impactar no meio ambiente.  Como  exemplo podemos citar: evitar deixar a torneira aberta e descartar o lixo corretamente.
+
+Portanto, aprender sobre a filtragem e o tratamento da água não é só um estudo científico, é também uma maneira de refletir sobre como podemos cuidar melhor do planeta e da sociedade. Dessa forma, cada um de nós pode ser parte da mudança para um mundo mais saudável e sustentável.
+
+Diante disso, esse trabalho tem como objetivo apresentar a importância da água tratada para o consumo humano, destacando os diferentes métodos de separação e filtragem existentes, sendo eles  físicos, químicos e biológicos. O método físico é aquele que retira as impurezas sólidas da água sem alterar sua composição química. Exemplo a filtração com areia e cascalho que quando a água passa por camadas de areia e pedras, as partículas ficam retidas, fazendo com que a água fique limpa. O método químico, usa reações químicas ou substâncias para remover possíveis contaminações. Como exemplo, podemos citar o uso de cloro e o uso de carvão ativado. Já o método biológico, utiliza seres vivos, principalmente micro-organismos para degradar poluentes. Exemplo: Biorremediação de filtros biológicos, muito usados em tratamento de esgoto.
+
+## Objetivos
+
+* Apresentar a importância da água tratada para o consumo humano, destacando a sua relevância em nossas vidas e no ecossistema;
+* Adquirir conhecimentos sobre técnicas de tratamento caseiro de água.
+
+## PARTE EXPERIMENTAL (fisica e quimica)
+
+Primeiramente é importante falar sobre os elementos químicos que formam  a água, sua origem, sua importância  e onde é encontrada. Também contextualizar   as formas de filtragem conhecidas (físico, químico e biológico). Demonstrar aos alunos os métodos de filtragem de água: Filtragem por Decantação (neste método, demonstramos como separar partículas sólidas em suspensão, deixando a água em repouso até que os resíduos se depositem no fundo do recipiente) e Filtragem com Sistema Caseiro (montar um sistema de filtragem utilizando os seguintes materiais: Bomba de máquina de lavar  roupa, Mangueiras transparentes, Recipientes transparentes e Elementos filtrantes: algodão, carvão ativado, areia fina e pedra brita. Esse sistema simula um filtro doméstico, mostrando como cada camada atua na retenção de impurezas da água). Os alunos podem ser  divididos em grupos de 3 a 4 integrantes, onde cada grupo receberá materiais diversos, como: garrafas PET, areia, pedras, carvão, algodão, copos descartáveis, grama, madeiras, panos entre outros. O objetivo é que eles usem a criatividade para construir seu próprio filtro de água funcional, aplicando os conceitos aprendidos na parte teórica e nas demonstrações. Cada grupo terá um tempo estipulado para apresentar o modelo de filtro criado, bem como explicar os materiais utilizados e assim demonstrar a passagem da água pelo filtro e comentar o que aprenderam com a experiência.
+
+### Materiais utilizados
+
+* Garrafas PET;
+
+* Areia;
+
+* Pedras;
+
+* Carvão;
+
+* Algodão;
+
+* Madeiras;
+
+* Bicos de câmara de pneu;
+
+* Mangueiras.
+
+### Procedimento experimental
+
+Para a confecção desse filtro caseiro será utilizado os seguintes materiais: dois pedaços de  madeira: 1 de aproximadamente 1,50 cm e outro de 0,50 cm, uma base de madeira (ou outro tipo de material), 4 garrafas pet, 4 parafusos para fixar a garrafa e 4 mangueira de aproximadamente 4 mm, com 50 cm, 6 bicos de câmera de pneu que serão usados para fixar as mangueiras nas garrafas. Modo de decantação: Aproximadamente de 8 a 10 cm de distância entre um litro e outro para que ocorra a decantação que é o processo onde os resíduos ficarão na parte baixa do filtro. São três sistemas de decantação, sendo o quarto pet  é o filtro. O filtro será feito também existindo um sistema de decantação, ficando a parte de saída da água a uma altura de 08 a 10 cm, contendo em primeira camada aproximadamente 1kg de  pedra, na segunda camada 1 kg de  areia, na terceira camada carvão, na quarta camada filtro de café e se preferir colocar algodão na última saída de água. Ressaltando que todos esses materiais, exceto a madeira, terá que ser higienizado, areia, pedra e carvão, terão que ser limpos e secos. Os bicos de conexão entre a mangueira e outra precisam ser lavados e esterilizados.
+
+```{r figura-3a}
+#| fig.cap: "..."
+
+knitr::include_graphics("img/rascunho.png")
+```
+
+## Questionário
+
+### Qual é o principal objetivo de filtrar a  água?
+
+Resposta: O objetivo é tratar a água para o consumo humano.
+
+### Quais são os três tipos de métodos de tratamento da água citados e como funcionam?
+
+Resposta:
+
+* Físico: remove impurezas sólidas sem alterar a composição da água (ex: filtração com areia e cascalho).
+
+* Químico: utiliza substâncias ou reações químicas para eliminar contaminações (ex: uso de cloro e carvão ativado).
+
+* Biológico: emprega micro-organismos para degradar poluentes (ex: biorremediação em filtros biológicos).
+
+### Como funciona o processo de decantação demonstrado no experimento?
+
+Resposta: A decantação ocorre quando a água é deixada em repouso, permitindo que as partículas sólidas mais pesadas se depositem no fundo do recipiente, separando-se da parte líquida.
+
+### Quais materiais são usados na montagem do filtro caseiro?
+
+Resposta:
+ São utilizados garrafas PET, areia, pedras, carvão, algodão, madeiras, bicos de câmara de pneu e mangueiras. Esses materiais formam as camadas filtrantes e o sistema de passagem da água.
+
+### Quais são as camadas do filtro?
+
+Resposta:
+ O filtro é formado por quatro camadas, sendo elas: pedra, areia, carvão e filtro de café e algodão.
+
+### Qual a função da pedra no filtro?
+
+Resposta:
+ A camada de pedras serve para  reter  partículas grandes;
+ 
+ 

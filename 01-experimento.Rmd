@@ -1,3 +1,95 @@
 # Elevador Hidráulico e o Princípio de Pascal
 
-## Autor: Andressa Sabrina Rodrigues Ferreira
+## Autora: Andressa Sabrina Rodrigues Ferreira
+
+## Introdução
+
+O estudo do comportamento dos fluidos e da forma como a pressão é transmitida em seu interior é fundamental para compreender diversas tecnologias presentes no cotidiano. Entre os conceitos centrais da hidrostática, destaca-se o Princípio de Pascal, formulado pelo cientista francês Blaise Pascal (1623-1662), que estabeleceu que “a pressão exercida em um fluido confinado é transmitida integralmente e igualmente em todas as direções” 
+[@Hidalgo2021]. Esse princípio tornou-se a base para o desenvolvimento de máquinas hidráulicas, revolucionando a engenharia e a mecânica modernas.
+O elevador hidráulico é um dos exemplos mais significativos da aplicação desse princípio. Presente em edifícios, indústrias e oficinas, ele funciona por meio da transmissão da pressão de um fluido  geralmente óleo ou água que, quando comprimido em um pistão menor, é distribuído uniformemente e eleva um pistão maior, permitindo a elevação de cargas pesadas com a aplicação de uma força relativamente pequena. Essa característica de multiplicação da força torna os elevadores hidráulicos eficientes, seguros e economicamente viáveis para o transporte vertical de cargas e pessoas.
+Compreender a relação entre o Princípio de Pascal e o funcionamento do elevador hidráulico possibilita conectar conceitos teóricos da Física a aplicações práticas e tecnológicas que facilitam a vida cotidiana. Além disso, o estudo experimental desses sistemas contribui para o desenvolvimento do raciocínio científico e para a valorização das descobertas que impulsionaram o progresso industrial e urbano. Dessa forma, a análise do elevador hidráulico e de sua base física demonstra a importância da ciência na resolução de problemas práticos e na construção de soluções inovadoras para a sociedade contemporânea.
+
+## Objetivo
+
+Demonstrar, por meio de um experimento simples, o funcionamento de um elevador hidráulico, evidenciando a transmissão de pressão em fluidos e relacionando-a às aplicações no cotidiano.
+
+## Parte experimental
+
+### Materiais utilizados
+
+* 2 seringas sem agulha (60 mL e 40mL);
+* 1 mangueira de silicone transparente; 
+* Água colorida (opcional);
+* Madeira para fixar a seringa;
+* Pesos (ex.: caixa de MDF, brinquedos, etc.);
+* Pregos 12 Polegadas para fixação das madeiras;
+* Prego 17(para fazer os furos na madeira e fixará a seringa)
+* Arame (para fixar a seringa)
+* Papel e caneta para anotações;
+* Madeiras recicladas (refugo, cavacos de caixaria de portas);
+* Martelo; 
+* Régua;
+* Palitos de churrasco reaproveitados de outro experimento;
+* Fita dupla face.
+* 2 seringas sem agulha (60 mL e 40mL);
+* 1 mangueira de silicone transparente; 
+* Água colorida (opcional);
+* Madeira para fixar a seringa;
+* Pesos (ex.: caixa de MDF, brinquedos, etc.);
+* Pregos 12 Polegadas para fixação das madeiras;
+* Prego 17(para fazer os furos na madeira e fixará a seringa)
+* Arame (para fixar a seringa)
+* Papel e caneta para anotações;
+* Madeiras recicladas (refugo, cavacos de caixaria de portas);
+* Martelo; 
+* Régua;
+* Palitos de churrasco reaproveitados de outro experimento;
+* Fita dupla face.
+
+### Procedimento
+
+```{r echo=FALSE}
+#| label: figura-1a
+#| layout-nrow: 2
+#| fig.cap:
+#|  - "Sistema sem aplicação da pressão."
+#|  - "Sistema hidráulico em funcionamento, compressão e peso."
+
+knitr::include_graphics(c("img/01/figura-1.jpg", "img/01/figura-2.jpg"))
+```
+
+#### Preparação dos materiais
+
+O experimento foi construído utilizando uma madeira de MDF com dimensões de 50 cm x 25 cm, que serviu como base da estrutura. Foram aproveitadas ripinhas de madeira cortadas com uma serrinha em 23 cm de comprimento, retiradas de restos de portas e móveis. Para a montagem, utilizaram-se pregos número 12, responsáveis por unir as partes móveis e permitir a articulação entre as peças. Também foram utilizados palitos de churrasco, duas seringas (uma de 60 mL e outra de 40 mL de menor volume), mangueira plástica e água e corante alimentar para facilitar a visualização do fluido.
+
+#### Montagem da estrutura
+
+As ripinhas foram lixadas para remover farpas e uniformizar as bordas. Em seguida, cada uma recebeu três furos, permitindo a articulação do mecanismo. As ripas foram fixadas de forma simétrica na base de MDF, mantendo uma distância de 14 cm entre elas, o que garantiu estabilidade e alinhamento adequado.
+
+#### Instalação do Sistema Hidráulico
+
+A seringa maior (60mL) foi fixada horizontalmente na estrutura de madeira, representando o pistão principal do elevador. A seringa menor foi conectada à primeira através da mangueira plástica, formando o circuito hidráulico. Ambas foram preenchidas com água colorida, certificando-se de eliminar todas as bolhas de ar, para que a transmissão de pressão ocorresse corretamente.
+
+#### Teste de Funcionamento
+
+O êmbolo da seringa menor foi pressionado lentamente, observando-se o deslocamento do fluido e a consequente elevação do êmbolo da seringa maior, comprovando a transmissão de pressão entre os pistões. Ao liberar o êmbolo, o sistema retornava à posição inicial.O êmbolo da seringa menor foi pressionado lentamente, observando-se o deslocamento do fluido e a consequente elevação do êmbolo da seringa maior, comprovando a transmissão de pressão entre os pistões. Ao liberar o êmbolo, o sistema retornava à posição inicial.
+
+#### Demonstração da Capacidade de Elevação
+
+Para evidenciar o funcionamento do elevador, foram fixados palitos de churrasco com fita dupla face na extremidade da seringa maior, servindo de suporte para pequenos pesos. Também foi utilizada uma caixinha de MDF para simular a carga a ser erguida, permitindo observar a eficiência do sistema.
+
+**Nota** O uso de água colorida ajuda a visualizar o deslocamento do fluido.
+
+## Questionário
+
+1. Explique, com suas palavras, o Princípio de Pascal.
+
+2. Por que é essencial que o fluido seja incompressível no funcionamento do sistema hidráulico?
+
+3. Cite três exemplos do uso do Princípio de Pascal no cotidiano.
+
+4. Qual a função da diferença de tamanho entre as seringas no experimento?
+
+5. Que vantagens o elevador hidráulico oferece em termos de esforço humano?
+
+6. O que você percebeu ao pressionar a seringa menor? Como isso demonstra o Princípio de Pascal?
