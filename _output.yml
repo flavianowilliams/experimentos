@@ -8,6 +8,10 @@ bookdown::gitbook:
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     edit: https://github.com/flavianowilliams/experimentos/blob/master/%s
     download: ["pdf", "epub"]
+    toolbar:
+      position: fixed
+      download: 'docs/_main.pdf'
+      search: yes
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex

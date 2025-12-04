@@ -20,10 +20,6 @@ description: |
 link-citations: yes
 github-repo: flavianowilliams/experimentos
 css: "style.css"
-output:
-  bookdown::pdf_book:
-    includes:
-      in_header: preamble.tex
 ---
 
 ```{r setup, include=FALSE}

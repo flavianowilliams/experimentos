@@ -1,0 +1,93 @@
+# Experimento de Refração de luz: Seta invertida
+
+## Autor: Vinicius Alady Jankovski
+
+## Introdução
+
+A luz é um dos fenômenos naturais mais fascinantes e essenciais para a nossa percepção do mundo. Entre os diversos comportamentos que ela apresenta, a refração se destaca por sua capacidade de alterar a trajetória da luz ao atravessar diferentes meios, como o ar, a água ou o vidro. Esse fenômeno está presente em diversas situações do cotidiano — desde o aparente “quebra” de um lápis dentro de um copo com água até o funcionamento de lentes em óculos, câmeras e microscópios.
+
+Nesta apostila, exploraremos a refração de forma prática e visual por meio do experimento conhecido como Seta Invertida. Com materiais simples e acessíveis, será possível observar como a luz pode criar ilusões ópticas surpreendentes, invertendo a direção de uma imagem ao passar por um copo com água. Além de despertar a curiosidade, esse experimento ajuda a compreender conceitos fundamentais da óptica e estimula o pensamento científico por meio da observação e da análise.
+
+## Objetivos
+
+* Demonstrar como a refração da luz pode causar a inversão aparente de uma imagem ao passar por diferentes meios (vidro e água).
+
+* Identificar como a refração pode alterar a trajetória da luz e a percepção visual de objetos.
+
+* Demonstrar, por meio de um experimento simples, como a refração pode gerar ilusões de ótica.
+
+* Relacionar o comportamento da luz com aplicações práticas em lentes, óculos e instrumentos ópticos.
+
+* Aplicar conceitos da física óptica para explicar fenômenos visuais do cotidiano.
+
+## Parte experimental
+
+### Materiais necessários
+
+* 1 copo de vidro transparente (cilíndrico)
+* Água
+* 1 folha de papel
+* Caneta ou marcador
+* Fita adesiva (opcional)
+
+### Procedimento experimental
+
+1. Desenhe a seta Na folha de papel, desenhe uma seta horizontal grande (→). Você pode fazer várias setas apontando para o mesmo lado para reforçar o efeito.
+
+2. Fixe o papel Cole o papel na parede ou em uma superfície vertical, na altura dos olhos. Certifique-se de que a seta esteja visível através do copo.
+
+3. Posicione o copo vazio Coloque o copo vazio entre seus olhos e o papel com a seta. Observe a seta através do copo — ela deve parecer normal.
+
+4. Adicione água ao copo Encha o copo com água até o topo. Agora olhe novamente através do copo.
+
+### **Observação**
+
+A seta aparecerá invertida, apontando para o lado oposto (←). Isso acontece por causa da refração da luz — a luz que passa pelo vidro e pela água é desviada, criando uma imagem invertida.
+
+### **Explicação científica**
+
+* A luz viaja em linha reta, mas muda de direção ao passar de um meio para outro (como do ar para a água).
+
+* O copo cilíndrico com água atua como uma lente convergente, que pode inverter a imagem dependendo da curvatura e da posição do observador.
+
+* Esse fenômeno é um exemplo claro de refração, que ocorre quando a luz muda de velocidade ao atravessar diferentes materiais.
+
+## Atividades complementares
+
+* Teste com diferentes formatos de copo (quadrado, cônico).
+
+* Use outros desenhos além da seta (palavras, números).
+
+* Meça a distância em que a inversão ocorre com maior nitidez.
+
+## Aplicações do Fenômeno
+
+* Lentes de óculos e câmeras
+
+* Microscópios e telescópios
+
+* Óptica médica (como lentes intraoculares)
+
+* Ilusões ópticas e arte visual
+
+## Conclusão
+
+Esse experimento simples mostra como a refração pode alterar nossa percepção visual. É uma ótima forma de introduzir conceitos de óptica e física de maneira prática e divertida.
+
+## Questionário
+
+1. O que é refração da luz?
+
+Resposta: Refração é o fenômeno físico que ocorre quando a luz muda de velocidade ao passar de um meio para outro, como do ar para a água, fazendo com que ela mude de direção.
+
+2. Por que a seta parece invertida quando observada através do copo com água?
+
+Resposta: A imagem da seta se inverte devido à refração da luz pelas superfícies curvas do copo e pela água. A luz é desviada de forma que a imagem parece estar virada para o lado oposto.
+
+3. Esse experimento é um exemplo de qual tipo de ilusão de ótica?
+
+Resposta: É um exemplo de ilusão de ótica causada pela refração, onde a imagem percebida é diferente da real devido à mudança na trajetória da luz.
+
+4. Cite uma aplicação prática da refração da luz no cotidian
+
+Resposta: A refração é usada em lentes de óculos, câmeras fotográficas, microscópios, telescópios e instrumentos ópticos em geral para corrigir ou ampliar imagens.
