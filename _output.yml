@@ -3,11 +3,20 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Práticas experimentais</a></li>
+        <li><a href="./"><img src="img/irati-horizontal.png" width="250px"/></a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     edit: https://github.com/flavianowilliams/experimentos/blob/master/%s
     download: ["pdf", "epub"]
+    sharing:
+      whatsapp: no
+      facebook: no
+      twitter: no
+      weibo: no
+      vk: no
+      instapaper: no
+      info: yes
+      all: []
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex

@@ -1,4 +1,4 @@
-# Felipe Miguel Patchek Franco
+# Experimento da Alavanca: Estudo das Leis da Física Aplicadas ao Princípio da Alavanca
 
 ## Autor: Felipe Miguel Patchek Franco
 
@@ -41,53 +41,67 @@ O estudo da alavanca é um exemplo clássico de como os conceitos de física, co
 
 ### Procedimento experimental
 
-1. Preparação da base: Inicialmente, foi recortado um pedaço de **papelão** utilizando **tesoura**, que serviu como base de sustentação da montagem.
+1. Preparação da base
 
-```{r figura-4a}
-#| fig.cap: "..."
+```{r figura-4a, attr.source="style='display:inline-block;'"}
+#| fig.show: "hold"
+#| out.width: "50%"
+#| fig.cap: "Inicialmente, foi recortado um pedaço de papelão utilizando tesoura, que serviu como base de sustentação da montagem."
+#| fig.subcap:
+#|  - ""
+#|  - ""
 
-knitr::include_graphics("img/rascunho.png")
+knitr::include_graphics(c("img/04/figura-4b.jpeg", "img/04/figura-4c.jpeg"))
 ```
 
-2. Montagem dos suportes: Em seguida, foram recortados e colados **dois suportes verticais de papelão** sobre a base, deixando entre eles um espaço para posicionar o pincel, que funcionou como o **fulcro (ponto de apoio)** da alavanca. Os suportes foram colados com fita adesiva e cola, e o pincel foi **perfurado** e encaixado nos suportes, de modo que pudesse girar livremente.
+2. Montagem dos suportes
 
 ```{r figura-4b}
-#| fig.cap: "..."
+#| fig.show: "hold"
+#| fig.ncol: 2
+#| out.width: "50%"
+#| fig.cap: "Em seguida, foram recortados e colados dois suportes verticais de papelão sobre a base, deixando entre eles um espaço para posicionar o pincel, que funcionou como o fulcro (ponto de apoio) da alavanca. Os suportes foram colados com fita adesiva e cola, e o pincel foi perfurado e encaixado nos suportes, de modo que pudesse girar livremente."
+#| fig.subcap:
+#|  - ""
+#|  - ""
+#|  - ""
 
-knitr::include_graphics("img/rascunho.png")
+knitr::include_graphics(c("img/04/figura-4d.jpeg", "img/04/figura-4e.jpeg", "img/04/figura-4f.jpeg", "img/04/figura-4g.jpeg"))
 ```
 
-3. Construção da barra da alavanca: Foi cortado mais um pedaço retangular de papelão, que serviu como a barra da alavanca. Essa barra foi apoiada sobre o pincel, centralizada de modo que pudesse se equilibrar.
+3. Construção da barra da alavanca: 
 
 ```{r figura-4c}
-#| fig.cap: "..."
+#| fig.cap: "Foi cortado mais um pedaço retangular de papelão, que serviu como a barra da alavanca. Essa barra foi apoiada sobre o pincel, centralizada de modo que pudesse se equilibrar."
 
-knitr::include_graphics("img/rascunho.png")
+knitr::include_graphics("img/04/figura-4h.jpeg")
 ```
 
-4. Fixação dos pesos: Em cada extremidade da barra de papelão, foi colada uma tampinha de garrafa PET. Em uma das tampinhas foram coladas duas moedas, representando um maior peso (força). Na outra tampinha foi colada apenas uma moeda, representando o menor peso.
+4. Fixação dos pesos
 
 ```{r figura-4d}
-#| fig.cap: "..."
+#| fig.show: "hold"
+#| out.width: "50%"
+#| fig.ncol: 2
+#| fig.cap: "Em cada extremidade da barra de papelão, foi colada uma tampinha de garrafa PET. Em uma das tampinhas foram coladas duas moedas, representando um maior peso (força). Na outra tampinha foi colada apenas uma moeda, representando o menor peso."
+#| fig.subcap:
+#|  - ""
+#|  - ""
 
-knitr::include_graphics("img/rascunho.png")
+knitr::include_graphics(c("img/04/figura-4i.jpeg", "img/04/figura-4j.jpeg"))
 ```
 
-5. Observação do funcionamento: A alavanca foi posicionada sobre o fulcro (pincel) e observou-se que o lado com duas moedas desceu, enquanto o lado com uma moeda subiu, demonstrando o desequilíbrio inicial. Ao mover o ponto de apoio ligeiramente em direção ao lado mais pesado, foi possível restabelecer o equilíbrio.
+5. Observação do funcionamento
 
 ```{r figura-4e}
-#| fig.cap: "..."
+#| fig.cap: "A alavanca foi posicionada sobre o fulcro (pincel) e observou-se que o lado com duas moedas desceu, enquanto o lado com uma moeda subiu, demonstrando o desequilíbrio inicial. Ao mover o ponto de apoio ligeiramente em direção ao lado mais pesado, foi possível restabelecer o equilíbrio."
 
-knitr::include_graphics("img/rascunho.png")
+knitr::include_graphics("img/04/figura-4l.jpeg")
 ```
 
-6. Conclusão visual: O experimento permitiu observar de forma simples e prática o princípio da alavanca, mostrando que o equilíbrio depende da relação entre força e distância em relação ao ponto de apoio. Observou-se que o peso indicada na balança variou quando o anel foi colocado, demonstrando que houve mudança na força exercida sobre ela.
+6. Conclusão visual
 
-```{r figura-4f}
-#| fig.cap: "..."
-
-knitr::include_graphics("img/rascunho.png")
-```
+O experimento permitiu observar de forma simples e prática o princípio da alavanca, mostrando que o equilíbrio depende da relação entre força e distância em relação ao ponto de apoio. Observou-se que o peso indicada na balança variou quando o anel foi colocado, demonstrando que houve mudança na força exercida sobre ela.
 
 ## Questionário
 

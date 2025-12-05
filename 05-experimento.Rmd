@@ -56,19 +56,19 @@ Uma cartolina branca ou papelão, marcadores ou tinta com as cores vermelho, lar
 6. Finalmente  é só garantir a rotação do disco. Quanto mais rápido o disco girar, maior será o efeito da composição da luz branca sobre os nossos olhos.
 
 ```{r figura-5a, fig.cap="Disco de Newton estático, com as sete cores separadas utilizado para demonstrar a composição da luz branca."}
-knitr::include_graphics("img/rascunho.png")
+knitr::include_graphics("img/05/figura-5a.jpeg")
 ```
 
 ```{r figura-5b, fig.cap="Montagem do disco de Newton."}
-knitr::include_graphics("img/rascunho.png")
+knitr::include_graphics("img/05/figura-5b.jpeg")
 ```
 
 ```{r figura-5c, fig.cap="Montagem experimental do Disco de Newton conectado a um motor elétrico de 12 volts, alimentado por uma bateria de 24 volts, permitindo alta rotação para demonstrar a mistura das cores e a formação da cor branca."}
-knitr::include_graphics("img/rascunho.png")
+knitr::include_graphics("img/05/figura-5c.jpeg")
 ```
 
 ```{r figura-5d, fig.cap="Disco de Newton em movimento.Ao girar, as cores se misturam visualmente, resultando na percepção de cor branca."}
-knitr::include_graphics("img/rascunho.png")
+knitr::include_graphics("img/05/figura-5d.jpeg")
 ```
 
 ## Questionário

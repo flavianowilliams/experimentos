@@ -48,14 +48,14 @@ Demonstrar, por meio de um experimento simples, o funcionamento de um elevador h
 
 ### Procedimento
 
-```{r echo=FALSE}
+```{r}
 #| label: figura-1a
 #| layout-nrow: 2
 #| fig.cap:
 #|  - "Sistema sem aplicação da pressão."
 #|  - "Sistema hidráulico em funcionamento, compressão e peso."
 
-knitr::include_graphics(c("img/01/figura-1.jpg", "img/01/figura-2.jpg"))
+knitr::include_graphics(c("img/01/figura-1a.jpg", "img/01/figura-1b.jpg"))
 ```
 
 #### Preparação dos materiais

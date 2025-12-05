@@ -1,6 +1,6 @@
 # FILTRO DE ÁGUA - Dois sistemas: Decantação e filtro
 
-## Autor: Denizar
+## Autor: Antônio Denizar Marques
 
 ## Introdução
 
@@ -48,7 +48,7 @@ Para a confecção desse filtro caseiro será utilizado os seguintes materiais: 
 ```{r figura-3a}
 #| fig.cap: "..."
 
-knitr::include_graphics("img/rascunho.png")
+knitr::include_graphics("img/03/figura-3a.jpeg")
 ```
 
 ## Questionário

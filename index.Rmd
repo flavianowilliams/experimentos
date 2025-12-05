@@ -1,13 +1,14 @@
 --- 
 title: "Práticas experimentais para cursos de Física do ensino médio"
 author:
-  - "Andressa Sabrina Rodrigues Ferreira"
-  - "Aron..."
-  - "Denizar..."
-  - "Felipe Miguel Patchek Franco"
-  - "Joivana de Fátima Rodrigues Lau"
-  - "Sabrina Vitoria Wersel"
-  - "Flaviano Williams Fernandes"
+  - "Andressa Sabrina Rodrigues Ferreira (discente)"
+  - "Aron Gabriel Medeiros de Lima (discente)"
+  - "Antônio Denizar Marques (discente)"
+  - "Felipe Miguel Patchek Franco (discente)"
+  - "Joivana de Fátima Rodrigues Lau (discente)"
+  - "Sabrina Vitoria Wersel (discente)"
+  - "Vinicius Alady Jankovski (discente)"
+  - "Flaviano Williams Fernandes (docente)"
 date: "`r format(Sys.Date(), '%d-%m-%Y')`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -18,7 +19,8 @@ csl: abnt.csl
 description: |
   Roteiro de experimentos para aulas de física do ensino médio.
 link-citations: yes
-github-repo: flavianowilliams/experimentos
+github-repo: flavianowilliams/experimentos.git
+favicon: "img/logo.png"
 css: "style.css"
 ---
 
@@ -27,7 +29,7 @@ knitr::opts_chunk$set(
   echo = FALSE,
   fig.align = "center",
   fig.topcaption = TRUE,
-  out.width = "100%"
+  out.width = "80%"
   )
 #
 source(file = "R/static.R")
