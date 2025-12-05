@@ -6,7 +6,6 @@ fig:figura-4b
 fig:figura-4c
 fig:figura-4d
 fig:figura-4e
-fig:figura-4f
 fig:figura-5a
 fig:figura-5b
 fig:figura-5c
