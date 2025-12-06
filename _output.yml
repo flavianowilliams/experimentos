@@ -5,7 +5,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./"><img src="img/irati-horizontal.png" width="250px"/></a></li>
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+        <li><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://mirrors.creativecommons.org/presskit/logos/cc.logo.large.png" width="150px"/></a></li>
     edit: https://github.com/flavianowilliams/experimentos/blob/master/%s
     download: ["pdf", "epub"]
     sharing:

@@ -50,6 +50,12 @@ d. fixar a outra extremidade do fio de cobre no papel alumínio de dentro do pot
 
 e. atritar um cano de pvc com papel, (ou uma bexiga de plástico sobre os cabelos) em seguida encostar o material atritado sobre a esfera de alumínio para a passagem de cargas. 
 
+```{r}
+#| label: figura-6a
+#| fig.cap: "Imagem da garafa de Leiden após a montagem."
+knitr::include_graphics("img/06/figura-6a.jpeg")
+```
+
 ## Questionário
 
 1. Por que a garrafa de leiden consegue armazenar energia? 

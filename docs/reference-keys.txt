@@ -10,6 +10,7 @@ fig:figura-5a
 fig:figura-5b
 fig:figura-5c
 fig:figura-5d
+fig:figura-6a
 introdução
 elevador-hidráulico-e-o-princípio-de-pascal
 autora-andressa-sabrina-rodrigues-ferreira
